@@ -1,7 +1,7 @@
 # Table of contents
 
 * [2025-ML](README.md)
-* [teormin-1](teormin-1/README.md)
+* [Теоретический минимум #1](teormin-1/README.md)
   * [Вопрос №1.01](teormin-1/vopros-1.01.md)
   * [Вопрос №1.02](teormin-1/vopros-1.02.md)
   * [Вопрос №1.03](teormin-1/vopros-1.03.md)
