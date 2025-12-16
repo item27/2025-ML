@@ -1,6 +1,8 @@
 # Вопрос №5.09
 
-> Архитектура ResNet (Residual Network)
+> Архитектура resNet. Как улучшает поток градиентов через модель. Как использовать для transfer learning
+
+### Архитектура ResNet (Residual Network)
 
 #### Идея
 
